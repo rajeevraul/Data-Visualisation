@@ -1,2 +1,2 @@
 # Data Visualisation
-An introduction to programming project written in javascript
+An Introduction to Programming project written in Javascript
