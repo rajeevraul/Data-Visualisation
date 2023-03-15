@@ -1,0 +1,28 @@
+body{
+    font-family: sans-serif;
+}
+
+.menu-item {
+    width: 250px;
+    height: 50px;
+    border: 1px solid gray;
+    list-style-type: none;
+    padding: 5px;
+    border-radius: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
+.container {
+  display: flex;
+}
+
+.hover {
+    background: lightgray;
+    cursor: pointer;   
+}
+
+.selected{
+    background: gold;
+}
+
